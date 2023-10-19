@@ -3,7 +3,7 @@
 
   <default sync-j="2"/>
 
-  <remote fetch="https://github.com/nxp-imx" name="nxp-imx"/>
+  <remote fetch="https://github.com/Infinia-Muhendislik" name="Infinia-Muhendislik"/>
   <remote fetch="https://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="https://code.qt.io/yocto"  name="QT6"/>
   <remote fetch="https://github.com/TimesysGit"  name="Timesys"/>
