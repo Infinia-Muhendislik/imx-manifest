@@ -8,7 +8,7 @@
   <remote fetch="https://code.qt.io/yocto"  name="QT6"/>
   <remote fetch="https://github.com/TimesysGit"  name="Timesys"/>
   <remote fetch="https://github.com/kraj" name="clang"/>
-  <remote fetch="https://github.com/Freescale" name="community"/>
+  <remote fetch="https://github.com/Infinia-Muhendislik" name="Infinia-Muhendislik"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://git.yoctoproject.org/git" name="yocto"/>
   <remote fetch="https://github.com/nxp-imx-support" name="imx-support"/>
@@ -19,7 +19,7 @@
   </project>
   <project name="meta-browser" path="sources/meta-browser" remote="OSSystems" revision="e232c2e21b96dc092d9af8bea4b3a528e7a46dd6"/>
   <project name="meta-clang" path="sources/meta-clang" remote="clang" revision="c728c3f9168c8a4ed05163a51dd48ca1ad8ac21d" upstream="kirkstone"/>
-  <project name="meta-freescale" path="sources/meta-freescale" remote="community" revision="c82d4634e7aba8bc0de73ce1dfc997b630051571" upstream="kirkstone"/>
+  <project name="meta-freescale" path="sources/meta-freescale" remote="Infinia-Muhendislik" revision="refs/tags/infinia-imx" upstream="kirkstone"/>
   <project name="meta-freescale-3rdparty" path="sources/meta-freescale-3rdparty" remote="community" revision="5977197340c7a7db17fe3e02a4e014ad997565ae" upstream="kirkstone"/>
   <project name="meta-freescale-distro" path="sources/meta-freescale-distro" remote="community" revision="d5bbb487b2816dfc74984a78b67f7361ce404253" upstream="kirkstone"/>
 
